@@ -9,7 +9,6 @@ int check_xx(char panel[][15], int y, int x, char object) {	//檢查x軸
 			stoneCount++;
 			if (stoneCount == 5) 
 				break;
-	
 		}
 		else 
 		{
